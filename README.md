@@ -1,4 +1,5 @@
 Sports Memorabilia NFT Project
+
 This project implements a blockchain-based system for creating and managing Non-Fungible Tokens (NFTs) representing sports memorabilia and collectibles. It uses Python for the backend, Flask for the API, and Clarity (Stacks) for the smart contract.
 Features
 
